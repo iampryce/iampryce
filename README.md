@@ -8,7 +8,8 @@ I am a student with a strong interest in technology and cybersecurity, with a pa
 
 ## Objective
 
-Although, I am studying Public Administration, my primary interest lies in Information Technology. I enjoy working with computers, understanding IT systems, and solving technical problems, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+Cloud and DevOps Engineer with a strong security operations background and a passion for teaching and continuous improvement. I design, automate, and maintain scalable cloud infrastructures while applying SOC best practices to ensure systems are secure, resilient, and observable.
+I work across AWS, Azure, and GCP, using infrastructure as code (Terraform, CloudFormation) to provision environments and CI/CD tools such as GitHub Actions, Jenkins, and AWS CodePipeline to automate deployments. With hands-on experience in Docker, Kubernetes, log monitoring, alerting, and incident response, I integrate security into cloud workflows—bridging DevOps and SOC to deliver reliable, security-first solutions.
 
 ## Skills
 
