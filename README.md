@@ -71,5 +71,5 @@ I work across AWS, Azure, and GCP, using infrastructure as code (Terraform, Clou
 ## Projects
 - <a href="https://github.com/iampryce/Detection-Lab/tree/main">Detection Lab</a>
 - SOC Automation Project
-- <a href=" https://github.com/iampryce/AWS-Organization-Setup-and-IAM-Role-Based-Access-Control-Project-1-AWS Organization">AWS-Organization-Setup-and-IAM-Role-Based-Access-Control />
+- <a href="https://github.com/iampryce/AWS-Organization-Setup-and-IAM-Role-Based-Access-Control-Project-1-AWS Organization">AWS-Organization-Setup-and-IAM-Role-Based-Access-Control</>
 
