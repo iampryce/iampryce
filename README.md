@@ -67,6 +67,23 @@ This is a production-grade serverless web application deployed entirely on AWS. 
 
 -------------------------------------------------
 
+<div>
+<h2>
+ <a href="https://github.com/iampryce/Nova-Support-AI-Platform">Real-Time AI Customer Support Sentiment Monitoring Platform on AWS  </a>
+   
+</h2>
+
+Real-time serverless customer support platform with AI sentiment analysis built on AWS (Lambda, API Gateway WebSockets, DynamoDB, CloudFront) and deployed with Terraform.
+    
+</div>
+
+
+-------------------------------------------------
+
+
+
+
+
 
  <div>
 <h2>
