@@ -23,10 +23,11 @@
 
 ## About
 
-Economics student transitioning into Cloud and DevOps Engineering with a strong foundation in security operations. I focus on designing, automating, and maintaining scalable cloud infrastructure while applying security best practices to ensure reliability, resilience, and observability.
+Cloud and DevOps Engineer with a strong foundation in security operations and an AWS Certified Solutions Architect (Associate). I design and implement scalable, secure cloud infrastructure, with a focus on automation, resilience, and observability.
 
-I work across AWS, Azure, and GCP, using Infrastructure as Code (Terraform, CloudFormation) to provision cloud environments and CI/CD pipelines (GitHub Actions, Jenkins, AWS CodePipeline) to automate consistent, production-ready deployments. With hands-on experience in Docker, Kubernetes, log monitoring, alerting, and incident response, I build secure and efficient systems that align development and operations.
+I work across AWS and Azure, leveraging Infrastructure as Code (Terraform, CloudFormation) and CI/CD pipelines (GitHub Actions, Jenkins, AWS CodePipeline) to deliver consistent, production-ready systems. I also integrate AI/ML and Generative AI services into cloud architectures, building intelligent, scalable applications.
 
+With hands-on experience in Docker, Kubernetes, monitoring, alerting, and incident response, I build reliable systems that bridge development and operations while maintaining strong security best practices.
 
 
 
@@ -83,7 +84,17 @@ Real-time serverless customer support platform with AI sentiment analysis built 
 
 -------------------------------------------------
 
+ <div>
+<h2>
+     <a href="https://github.com/iampryce/BIOMETRIC-AUTHENTICATION-APP-AMAZON-REKOGNITION">BIOMETRIC AUTHENTICATION-APP AMAZON REKOGNITION</a>
+</h2>
 
+A production-grade, serverless biometric authentication system built on AWS facial recognition powered by Rekognition, fully managed with Terraform, and deployed via GitHub Actions CI/CD.
+    
+</div>
+
+
+-------------------------------------------------
 
 
 
@@ -227,9 +238,8 @@ This project documents the setup of an Azure environment for a company, includin
 
 <div>
 <img src="https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-
+<img src="https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect%20Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
 </div>
-
 
 
 
