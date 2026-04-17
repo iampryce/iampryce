@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/da330c36-fb4a-4f3f-9585-6acf0bffc15d" width="100%" height="230px" style="object-fit: cover;" />
+</p>
+
 # Oluwatobi Ogundimu
 
 Cloud & DevOps Engineer | AWS Certified Solutions Architect (Associate)
@@ -38,23 +42,21 @@ Strong focus on Infrastructure as Code, CI/CD pipelines, Kubernetes orchestratio
 
 ## Cloud Security and DevSecOps
 
-<p>
+<p align="left">
 <a href="https://github.com/iampryce/AWS-Cloud-Security-Detection-Engineering-Platform">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=iampryce&repo=AWS-Cloud-Security-Detection-Engineering-Platform" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=iampryce&repo=AWS-Cloud-Security-Detection-Engineering-Platform" width="49%" />
 </a>
-
 <a href="https://github.com/iampryce/AWS-Automated-Incident-Response-SOAR">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=iampryce&repo=AWS-Automated-Incident-Response-SOAR" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=iampryce&repo=AWS-Automated-Incident-Response-SOAR" width="49%" />
 </a>
 </p>
 
-<p>
+<p align="left">
 <a href="https://github.com/iampryce/AWS-Organization-Setup-and-IAM-Role-Based-Access-Control-Project-1-">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=iampryce&repo=AWS-Organization-Setup-and-IAM-Role-Based-Access-Control-Project-1-" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=iampryce&repo=AWS-Organization-Setup-and-IAM-Role-Based-Access-Control-Project-1-" width="49%" />
 </a>
-
 <a href="https://github.com/iampryce/SSH-Port-Hardening-and-Datadog-Logging-on-EC2-Server">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=iampryce&repo=SSH-Port-Hardening-and-Datadog-Logging-on-EC2-Server" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=iampryce&repo=SSH-Port-Hardening-and-Datadog-Logging-on-EC2-Server" width="49%" />
 </a>
 </p>
 
@@ -62,13 +64,12 @@ Strong focus on Infrastructure as Code, CI/CD pipelines, Kubernetes orchestratio
 
 ## DevOps and CI/CD Systems
 
-<p>
+<p align="left">
 <a href="https://github.com/iampryce/Task-App">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=iampryce&repo=Task-App" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=iampryce&repo=Task-App" width="49%" />
 </a>
-
 <a href="https://github.com/iampryce/Production-Grade-Serverless-Web-Architecture-with-CI-CD-Integration">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=iampryce&repo=Production-Grade-Serverless-Web-Architecture-with-CI-CD-Integration" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=iampryce&repo=Production-Grade-Serverless-Web-Architecture-with-CI-CD-Integration" width="49%" />
 </a>
 </p>
 
@@ -76,13 +77,12 @@ Strong focus on Infrastructure as Code, CI/CD pipelines, Kubernetes orchestratio
 
 ## AI and Serverless Platforms
 
-<p>
+<p align="left">
 <a href="https://github.com/iampryce/Nova-Support-AI-Platform">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=iampryce&repo=Nova-Support-AI-Platform" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=iampryce&repo=Nova-Support-AI-Platform" width="49%" />
 </a>
-
 <a href="https://github.com/iampryce/Serverless-AI-Quote-Generator-on-AWS-Iac-">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=iampryce&repo=Serverless-AI-Quote-Generator-on-AWS-Iac-" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=iampryce&repo=Serverless-AI-Quote-Generator-on-AWS-Iac-" width="49%" />
 </a>
 </p>
 
@@ -90,9 +90,9 @@ Strong focus on Infrastructure as Code, CI/CD pipelines, Kubernetes orchestratio
 
 ## Observability and Monitoring
 
-<p>
+<p align="left">
 <a href="https://github.com/iampryce/Serverless-Observability-Monitoring-with-Datadog-and-Slack">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=iampryce&repo=Serverless-Observability-Monitoring-with-Datadog-and-Slack" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=iampryce&repo=Serverless-Observability-Monitoring-with-Datadog-and-Slack" width="49%" />
 </a>
 </p>
 
@@ -100,9 +100,9 @@ Strong focus on Infrastructure as Code, CI/CD pipelines, Kubernetes orchestratio
 
 ## Cloud Architecture and Governance
 
-<p>
+<p align="left">
 <a href="https://github.com/iampryce/Azure-Cloud-Setup-IAM-Implementation">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=iampryce&repo=Azure-Cloud-Setup-IAM-Implementation" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=iampryce&repo=Azure-Cloud-Setup-IAM-Implementation" width="49%" />
 </a>
 </p>
 
