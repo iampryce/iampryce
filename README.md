@@ -1,15 +1,5 @@
 
-
-<p align="center" style="border-radius:15px;">
-
- <img src="https://github.com/user-attachments/assets/e75837e1-e700-46a8-a60c-9d644f66b03f" width="120">
-
-
-
-
-</p>
-
-<h1 align="center"> Hello, I'm Oluwatobi 
+<h1> Hi, I'm Oluwatobi 
 </h1>
 
 <p align="center">
