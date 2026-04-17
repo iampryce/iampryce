@@ -2,9 +2,7 @@
   <img src="https://github.com/user-attachments/assets/da330c36-fb4a-4f3f-9585-6acf0bffc15d" width="100%" height="230px" style="object-fit: cover;" />
 </p>
 
-# Oluwatobi Ogundimu
 
-Cloud & DevOps Engineer | AWS Certified Solutions Architect (Associate)
 
 ![AWS Certified](https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect%20Associate-FF9900?style=for-the-badge\&logo=amazonaws\&logoColor=white)
 
