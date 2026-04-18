@@ -20,7 +20,7 @@
 
 ---
 
-## Summary
+## About
 
 AWS Certified Solutions Architect and Cloud & DevOps Engineer with hands-on experience designing, automating, and securing production-grade cloud infrastructure across AWS and Azure.
 
