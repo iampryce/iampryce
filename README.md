@@ -35,8 +35,11 @@ I build production-grade environments across AWS and Azure using Infrastructure 
 ## GitHub Statistics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iampryce&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iampryce&layout=compact" />
+  <img src="https://streak-stats.demolab.com/?user=iampryce&theme=default" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=iampryce&row=1&column=6&margin-w=10" alt="GitHub Trophies" />
 </p>
 
 ---
