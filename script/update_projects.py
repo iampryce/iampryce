@@ -48,6 +48,23 @@ def categorize(repo):
     return "Other Projects"
 
 
+def card(repo):
+    name = repo["name"]
+    url = repo["html_url"]
+    description = repo.get("description") or "No description provided."
+    stars = repo.get("stargazers_count", 0)
+    forks = repo.get("forks_count", 0)
+    language = repo.get("language") or "—"
+
+    return (
+        f'<td width="50%" valign="top">\n'
+        f'  <h4><a href="{url}">{name}</a></h4>\n'
+        f"  <p>{description}</p>\n"
+        f"  <p>⭐ {stars} &nbsp; 🍴 {forks} &nbsp; 💻 {language}</p>\n"
+        f"</td>"
+    )
+
+
 def build_section(repos):
     categories = {cat: [] for cat in CATEGORY_ORDER}
     for repo in repos:
@@ -58,17 +75,16 @@ def build_section(repos):
         cat_repos = categories[cat]
         if not cat_repos:
             continue
-        lines.append(f"### {cat}\n\n")
-        lines.append('<p align="left">\n')
-        for i, repo in enumerate(cat_repos):
-            lines.append(f'<a href="{repo["html_url"]}">\n')
-            lines.append(
-                f'  <img src="https://github-readme-stats.vercel.app/api/pin/?username={GITHUB_USERNAME}&repo={repo["name"]}" width="49%" />\n'
-            )
-            lines.append("</a>\n")
-            if i % 2 == 1:
-                lines.append("\n")
-        lines.append("</p>\n\n---\n\n")
+        lines.append(f"### {cat}\n\n<table>\n")
+        for i in range(0, len(cat_repos), 2):
+            lines.append("<tr>\n")
+            lines.append(card(cat_repos[i]) + "\n")
+            if i + 1 < len(cat_repos):
+                lines.append(card(cat_repos[i + 1]) + "\n")
+            else:
+                lines.append('<td width="50%"></td>\n')
+            lines.append("</tr>\n")
+        lines.append("</table>\n\n---\n\n")
 
     return "".join(lines)
 
