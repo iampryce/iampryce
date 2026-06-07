@@ -96,63 +96,93 @@ I build production-grade environments across AWS and Azure using Infrastructure 
 <!--START_SECTION:projects-->
 ### Cloud Security & DevSecOps
 
-<p align="left">
-<a href="https://github.com/iampryce/Secure-Multi-Environment-Terraform-Platform-with-Dynamic-Secrets-and-Credential-Management">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=iampryce&repo=Secure-Multi-Environment-Terraform-Platform-with-Dynamic-Secrets-and-Credential-Management" width="49%" />
-</a>
-<a href="https://github.com/iampryce/BIOMETRIC-AUTHENTICATION-APP-AMAZON-REKOGNITION">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=iampryce&repo=BIOMETRIC-AUTHENTICATION-APP-AMAZON-REKOGNITION" width="49%" />
-</a>
-
-<a href="https://github.com/iampryce/Serverless-Observability-Monitoring-with-Datadog-and-Slack">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=iampryce&repo=Serverless-Observability-Monitoring-with-Datadog-and-Slack" width="49%" />
-</a>
-</p>
+<table>
+<tr>
+<td width="50%" valign="top">
+  <h4><a href="https://github.com/iampryce/Secure-Multi-Environment-Terraform-Platform-with-Dynamic-Secrets-and-Credential-Management">Secure-Multi-Environment-Terraform-Platform-with-Dynamic-Secrets-and-Credential-Management</a></h4>
+  <p>This project demonstrates a production-style Terraform architecture that manages multiple environments using workspaces while securely handling secrets and credentials through HashiCorp Vault.  The same codebase dynamically provisions infrastructure and retrieves environment-specific secrets based on the active workspace.</p>
+  <p>⭐ 0 &nbsp; 🍴 0 &nbsp; 💻 HCL</p>
+</td>
+<td width="50%" valign="top">
+  <h4><a href="https://github.com/iampryce/BIOMETRIC-AUTHENTICATION-APP-AMAZON-REKOGNITION">BIOMETRIC-AUTHENTICATION-APP-AMAZON-REKOGNITION</a></h4>
+  <p>A production-grade, serverless biometric authentication system built on AWS facial recognition powered by Rekognition, fully managed with Terraform, and deployed via GitHub Actions CI/CD.</p>
+  <p>⭐ 4 &nbsp; 🍴 2 &nbsp; 💻 Python</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+  <h4><a href="https://github.com/iampryce/Serverless-Observability-Monitoring-with-Datadog-and-Slack">Serverless-Observability-Monitoring-with-Datadog-and-Slack</a></h4>
+  <p>This monitoring and Alerting stack was implemented on top of the serverless web architecture project:  https://github.com/iampryce/Production-Grade-Serverless-Web-Architecture-with-CI-CD-Integration  This observability layer provides real-time monitoring, alerting, and operational visibility.</p>
+  <p>⭐ 0 &nbsp; 🍴 0 &nbsp; 💻 —</p>
+</td>
+<td width="50%"></td>
+</tr>
+</table>
 
 ---
 
 ### Platform Engineering & Automation
 
-<p align="left">
-<a href="https://github.com/iampryce/Infrastructure-Bootstrap-Platform-Ansible-Terraform">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=iampryce&repo=Infrastructure-Bootstrap-Platform-Ansible-Terraform" width="49%" />
-</a>
-<a href="https://github.com/iampryce/Containerized-Node.js-App-with-CI-CD-Environment-Separation-Rollback">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=iampryce&repo=Containerized-Node.js-App-with-CI-CD-Environment-Separation-Rollback" width="49%" />
-</a>
-
-<a href="https://github.com/iampryce/Terraform-AWS-Multi-Environment-Platform-Workspaces-Remote-State-Private-Networking">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=iampryce&repo=Terraform-AWS-Multi-Environment-Platform-Workspaces-Remote-State-Private-Networking" width="49%" />
-</a>
-<a href="https://github.com/iampryce/Task-App">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=iampryce&repo=Task-App" width="49%" />
-</a>
-
-</p>
+<table>
+<tr>
+<td width="50%" valign="top">
+  <h4><a href="https://github.com/iampryce/Infrastructure-Bootstrap-Platform-Ansible-Terraform">Infrastructure-Bootstrap-Platform-Ansible-Terraform</a></h4>
+  <p>The Infrastructure Bootstrap Platform is an Infrastructure as Code (IaC) and Configuration Management project designed to automate the provisioning and configuration of cloud infrastructure on AWS.</p>
+  <p>⭐ 0 &nbsp; 🍴 0 &nbsp; 💻 HCL</p>
+</td>
+<td width="50%" valign="top">
+  <h4><a href="https://github.com/iampryce/Containerized-Node.js-App-with-CI-CD-Environment-Separation-Rollback">Containerized-Node.js-App-with-CI-CD-Environment-Separation-Rollback</a></h4>
+  <p>No description provided.</p>
+  <p>⭐ 0 &nbsp; 🍴 0 &nbsp; 💻 HCL</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+  <h4><a href="https://github.com/iampryce/Terraform-AWS-Multi-Environment-Platform-Workspaces-Remote-State-Private-Networking">Terraform-AWS-Multi-Environment-Platform-Workspaces-Remote-State-Private-Networking</a></h4>
+  <p>This project demonstrates how to design and deploy a multi-environment AWS infrastructure using Terraform.  It uses Terraform Workspaces to manage dev, staging, and production environments from a single codebase, with remote state stored in S3 and native state locking enabled.</p>
+  <p>⭐ 0 &nbsp; 🍴 0 &nbsp; 💻 HCL</p>
+</td>
+<td width="50%" valign="top">
+  <h4><a href="https://github.com/iampryce/Task-App">Task-App</a></h4>
+  <p>Task App</p>
+  <p>⭐ 0 &nbsp; 🍴 0 &nbsp; 💻 CSS</p>
+</td>
+</tr>
+</table>
 
 ---
 
 ### AI & Cloud Applications
 
-<p align="left">
-<a href="https://github.com/iampryce/Nova-Support-AI-Platform">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=iampryce&repo=Nova-Support-AI-Platform" width="49%" />
-</a>
-<a href="https://github.com/iampryce/Serverless-AI-Quote-Generator-on-AWS-Iac-">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=iampryce&repo=Serverless-AI-Quote-Generator-on-AWS-Iac-" width="49%" />
-</a>
-
-</p>
+<table>
+<tr>
+<td width="50%" valign="top">
+  <h4><a href="https://github.com/iampryce/Nova-Support-AI-Platform">Nova-Support-AI-Platform</a></h4>
+  <p>Real-time serverless customer support platform with AI sentiment analysis built on AWS (Lambda, API Gateway WebSockets, DynamoDB, CloudFront) and deployed with Terraform.</p>
+  <p>⭐ 0 &nbsp; 🍴 0 &nbsp; 💻 HCL</p>
+</td>
+<td width="50%" valign="top">
+  <h4><a href="https://github.com/iampryce/Serverless-AI-Quote-Generator-on-AWS-Iac-">Serverless-AI-Quote-Generator-on-AWS-Iac-</a></h4>
+  <p>This is a production-grade serverless web application deployed entirely on AWS. Users visits the website, type a topic and receive an AI-generated quote tailored to that topic. The entire infrastructure is provisioned automatically using Terraform and deployed via a GitHub Actions CI/CD pipeline.</p>
+  <p>⭐ 1 &nbsp; 🍴 0 &nbsp; 💻 HCL</p>
+</td>
+</tr>
+</table>
 
 ---
 
 ### Other Projects
 
-<p align="left">
-<a href="https://github.com/iampryce/CodeAlpha-Jenkins-Remoting-Project">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=iampryce&repo=CodeAlpha-Jenkins-Remoting-Project" width="49%" />
-</a>
-</p>
+<table>
+<tr>
+<td width="50%" valign="top">
+  <h4><a href="https://github.com/iampryce/CodeAlpha-Jenkins-Remoting-Project">CodeAlpha-Jenkins-Remoting-Project</a></h4>
+  <p>This project demonstrates Jenkins Remoting by connecting a Jenkins Agent container to a Jenkins Master container using Docker and Docker Compose.</p>
+  <p>⭐ 0 &nbsp; 🍴 0 &nbsp; 💻 —</p>
+</td>
+<td width="50%"></td>
+</tr>
+</table>
 
 ---
 
