@@ -39,7 +39,9 @@ I build production-grade environments across AWS and Azure using Infrastructure 
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=iampryce&row=1&column=6&margin-w=10" alt="GitHub Trophies" />
+  <img src="https://img.shields.io/github/followers/iampryce?label=Followers&style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/github/stars/iampryce?affiliations=OWNER&label=Total%20Stars&style=for-the-badge&logo=github" />
+  <img src="https://komarev.com/ghpvc/?username=iampryce&style=for-the-badge&color=blue" />
 </p>
 
 ---
