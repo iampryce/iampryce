@@ -94,8 +94,67 @@ I build production-grade environments across AWS and Azure using Infrastructure 
 ## Latest Projects
 
 <!--START_SECTION:projects-->
+### Cloud Security & DevSecOps
 
-Automatically updated by GitHub Actions
+<p align="left">
+<a href="https://github.com/iampryce/Secure-Multi-Environment-Terraform-Platform-with-Dynamic-Secrets-and-Credential-Management">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=iampryce&repo=Secure-Multi-Environment-Terraform-Platform-with-Dynamic-Secrets-and-Credential-Management" width="49%" />
+</a>
+<a href="https://github.com/iampryce/BIOMETRIC-AUTHENTICATION-APP-AMAZON-REKOGNITION">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=iampryce&repo=BIOMETRIC-AUTHENTICATION-APP-AMAZON-REKOGNITION" width="49%" />
+</a>
+
+<a href="https://github.com/iampryce/Serverless-Observability-Monitoring-with-Datadog-and-Slack">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=iampryce&repo=Serverless-Observability-Monitoring-with-Datadog-and-Slack" width="49%" />
+</a>
+</p>
+
+---
+
+### Platform Engineering & Automation
+
+<p align="left">
+<a href="https://github.com/iampryce/Infrastructure-Bootstrap-Platform-Ansible-Terraform">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=iampryce&repo=Infrastructure-Bootstrap-Platform-Ansible-Terraform" width="49%" />
+</a>
+<a href="https://github.com/iampryce/Containerized-Node.js-App-with-CI-CD-Environment-Separation-Rollback">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=iampryce&repo=Containerized-Node.js-App-with-CI-CD-Environment-Separation-Rollback" width="49%" />
+</a>
+
+<a href="https://github.com/iampryce/Terraform-AWS-Multi-Environment-Platform-Workspaces-Remote-State-Private-Networking">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=iampryce&repo=Terraform-AWS-Multi-Environment-Platform-Workspaces-Remote-State-Private-Networking" width="49%" />
+</a>
+<a href="https://github.com/iampryce/Task-App">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=iampryce&repo=Task-App" width="49%" />
+</a>
+
+</p>
+
+---
+
+### AI & Cloud Applications
+
+<p align="left">
+<a href="https://github.com/iampryce/Nova-Support-AI-Platform">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=iampryce&repo=Nova-Support-AI-Platform" width="49%" />
+</a>
+<a href="https://github.com/iampryce/Serverless-AI-Quote-Generator-on-AWS-Iac-">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=iampryce&repo=Serverless-AI-Quote-Generator-on-AWS-Iac-" width="49%" />
+</a>
+
+</p>
+
+---
+
+### Other Projects
+
+<p align="left">
+<a href="https://github.com/iampryce/CodeAlpha-Jenkins-Remoting-Project">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=iampryce&repo=CodeAlpha-Jenkins-Remoting-Project" width="49%" />
+</a>
+</p>
+
+---
 
 <!--END_SECTION:projects-->
 
