@@ -1,6 +1,4 @@
-
-
-
+# Hi, I'm Oluwatobi Ogundimu 👋
 
 ![AWS Certified](https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect%20Associate-FF9900?style=for-the-badge\&logo=amazonaws\&logoColor=white)
 
@@ -18,11 +16,11 @@
 
 ---
 
-## About
+## Platform Engineer | Cloud Infrastructure | DevOps | DevSecOps | AI Systems
 
-AWS Certified Solutions Architect and Cloud & DevOps Engineer with hands-on experience designing, automating, and securing production-grade cloud infrastructure across AWS and Azure.
+AWS Certified Solutions Architect and Platform Engineer specializing in cloud infrastructure, DevOps automation, DevSecOps, and AI-powered systems.
 
-Strong focus on Infrastructure as Code, CI/CD pipelines, Kubernetes orchestration, cloud security, and observability.
+I build production-grade environments across AWS and Azure using Infrastructure as Code, Kubernetes, GitOps, CI/CD pipelines, and cloud-native security practices. My focus is designing scalable, secure, observable, and highly automated platforms that support modern applications and AI workloads.
 
 ---
 
@@ -34,36 +32,44 @@ Strong focus on Infrastructure as Code, CI/CD pipelines, Kubernetes orchestratio
 
 ---
 
-# Projects
+## GitHub Statistics
 
-## Cloud Security and DevSecOps
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iampryce&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iampryce&layout=compact" />
+</p>
+
+---
+
+## Contribution Activity
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=iampryce)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+# Featured Projects
+
+## Cloud Security & DevSecOps
 
 <p align="left">
 <a href="https://github.com/iampryce/AWS-Cloud-Security-Detection-Engineering-Platform">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=iampryce&repo=AWS-Cloud-Security-Detection-Engineering-Platform" width="49%" />
 </a>
+
 <a href="https://github.com/iampryce/AWS-Automated-Incident-Response-SOAR">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=iampryce&repo=AWS-Automated-Incident-Response-SOAR" width="49%" />
 </a>
 </p>
 
-<p align="left">
-<a href="https://github.com/iampryce/AWS-Organization-Setup-and-IAM-Role-Based-Access-Control-Project-1-">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=iampryce&repo=AWS-Organization-Setup-and-IAM-Role-Based-Access-Control-Project-1-" width="49%" />
-</a>
-<a href="https://github.com/iampryce/SSH-Port-Hardening-and-Datadog-Logging-on-EC2-Server">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=iampryce&repo=SSH-Port-Hardening-and-Datadog-Logging-on-EC2-Server" width="49%" />
-</a>
-</p>
-
 ---
 
-## DevOps and CI/CD Systems
+## Platform Engineering & Automation
 
 <p align="left">
-<a href="https://github.com/iampryce/Task-App">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=iampryce&repo=Task-App" width="49%" />
+<a href="https://github.com/iampryce/Infrastructure-Bootstrap-Platform-Ansible-Terraform">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=iampryce&repo=Infrastructure-Bootstrap-Platform-Ansible-Terraform" width="49%" />
 </a>
+
 <a href="https://github.com/iampryce/Production-Grade-Serverless-Web-Architecture-with-CI-CD-Integration">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=iampryce&repo=Production-Grade-Serverless-Web-Architecture-with-CI-CD-Integration" width="49%" />
 </a>
@@ -71,12 +77,13 @@ Strong focus on Infrastructure as Code, CI/CD pipelines, Kubernetes orchestratio
 
 ---
 
-## AI and Serverless Platforms
+## AI & Cloud Applications
 
 <p align="left">
 <a href="https://github.com/iampryce/Nova-Support-AI-Platform">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=iampryce&repo=Nova-Support-AI-Platform" width="49%" />
 </a>
+
 <a href="https://github.com/iampryce/Serverless-AI-Quote-Generator-on-AWS-Iac-">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=iampryce&repo=Serverless-AI-Quote-Generator-on-AWS-Iac-" width="49%" />
 </a>
@@ -84,44 +91,58 @@ Strong focus on Infrastructure as Code, CI/CD pipelines, Kubernetes orchestratio
 
 ---
 
-## Observability and Monitoring
+## Latest Projects
 
-<p align="left">
-<a href="https://github.com/iampryce/Serverless-Observability-Monitoring-with-Datadog-and-Slack">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=iampryce&repo=Serverless-Observability-Monitoring-with-Datadog-and-Slack" width="49%" />
-</a>
-</p>
+<!--START_SECTION:projects-->
 
----
+Automatically updated by GitHub Actions
 
-## Cloud Architecture and Governance
-
-<p align="left">
-<a href="https://github.com/iampryce/Azure-Cloud-Setup-IAM-Implementation">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=iampryce&repo=Azure-Cloud-Setup-IAM-Implementation" width="49%" />
-</a>
-</p>
+<!--END_SECTION:projects-->
 
 ---
 
 ## Technical Skills
 
-Cloud Platforms: AWS, Azure
-Infrastructure as Code: Terraform, CloudFormation, Bicep
-Configuration Management: Ansible
-CI/CD and GitOps: GitHub Actions, Jenkins, Argo CD
-Containers and Orchestration: Docker, Kubernetes (EKS, AKS, K3s), Helm
-Monitoring and Observability: Datadog, Prometheus, Grafana, CloudWatch
-Security: IAM, GuardDuty, CloudTrail, AWS Organizations, SCPs
-Languages and Tools: Python, Bash, PowerShell, Linux
+### Cloud Platforms
+
+AWS, Azure
+
+### Infrastructure as Code
+
+Terraform, CloudFormation, Bicep
+
+### Configuration Management
+
+Ansible
+
+### CI/CD & GitOps
+
+GitHub Actions, Jenkins, Argo CD
+
+### Containers & Orchestration
+
+Docker, Kubernetes (EKS, AKS, K3s), Helm
+
+### Monitoring & Observability
+
+Datadog, Prometheus, Grafana, CloudWatch
+
+### Security
+
+IAM, GuardDuty, CloudTrail, AWS Organizations, SCPs
+
+### Languages & Tools
+
+Python, Bash, PowerShell, Linux
 
 ---
 
 ## Certifications
 
 ![AWS SAA](https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect%20Associate-FF9900?style=for-the-badge\&logo=amazonaws\&logoColor=white)
-![AWS CCP](https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
-![CKA](https://img.shields.io/badge/CKA-In%20Progress-326CE5?style=for-the-badge\&logo=kubernetes\&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-Associate%20\(In%20Progress\)-7B42BC?style=for-the-badge\&logo=terraform\&logoColor=white)
 
----
+![AWS CCP](https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
+
+![CKA](https://img.shields.io/badge/CKA-In%20Progress-326CE5?style=for-the-badge\&logo=kubernetes\&logoColor=white)
+
+![Terraform](https://img.shields.io/badge/Terraform-Associate%20\(In%20Progress\)-7B42BC?style=for-the-badge\&logo=terraform\&logoColor=white)
