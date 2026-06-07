@@ -51,7 +51,8 @@ def categorize(repo):
 def card(repo):
     name = repo["name"]
     url = repo["html_url"]
-    description = repo.get("description") or "No description provided."
+    raw_desc = repo.get("description") or "No description provided."
+    description = raw_desc if len(raw_desc) <= 100 else raw_desc[:97] + "..."
     stars = repo.get("stargazers_count", 0)
     forks = repo.get("forks_count", 0)
     language = repo.get("language") or "—"

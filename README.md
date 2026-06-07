@@ -51,43 +51,52 @@ I build production-grade environments across AWS and Azure using Infrastructure 
 
 ## Cloud Security & DevSecOps
 
-<p align="left">
-<a href="https://github.com/iampryce/AWS-Cloud-Security-Detection-Engineering-Platform">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=iampryce&repo=AWS-Cloud-Security-Detection-Engineering-Platform" width="49%" />
-</a>
-
-<a href="https://github.com/iampryce/AWS-Automated-Incident-Response-SOAR">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=iampryce&repo=AWS-Automated-Incident-Response-SOAR" width="49%" />
-</a>
-</p>
+<table>
+<tr>
+<td width="50%" valign="top">
+  <h4><a href="https://github.com/iampryce/AWS-Cloud-Security-Detection-Engineering-Platform">AWS-Cloud-Security-Detection-Engineering-Platform</a></h4>
+  <p>Detection engineering platform on AWS with automated threat detection, alerting, and response workflows.</p>
+</td>
+<td width="50%" valign="top">
+  <h4><a href="https://github.com/iampryce/AWS-Automated-Incident-Response-SOAR">AWS-Automated-Incident-Response-SOAR</a></h4>
+  <p>Automated incident response and SOAR platform on AWS using Lambda, Step Functions, and GuardDuty.</p>
+</td>
+</tr>
+</table>
 
 ---
 
 ## Platform Engineering & Automation
 
-<p align="left">
-<a href="https://github.com/iampryce/Infrastructure-Bootstrap-Platform-Ansible-Terraform">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=iampryce&repo=Infrastructure-Bootstrap-Platform-Ansible-Terraform" width="49%" />
-</a>
-
-<a href="https://github.com/iampryce/Production-Grade-Serverless-Web-Architecture-with-CI-CD-Integration">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=iampryce&repo=Production-Grade-Serverless-Web-Architecture-with-CI-CD-Integration" width="49%" />
-</a>
-</p>
+<table>
+<tr>
+<td width="50%" valign="top">
+  <h4><a href="https://github.com/iampryce/Infrastructure-Bootstrap-Platform-Ansible-Terraform">Infrastructure-Bootstrap-Platform-Ansible-Terraform</a></h4>
+  <p>Production-ready infrastructure bootstrap platform using Ansible and Terraform for multi-environment provisioning.</p>
+</td>
+<td width="50%" valign="top">
+  <h4><a href="https://github.com/iampryce/Production-Grade-Serverless-Web-Architecture-with-CI-CD-Integration">Production-Grade-Serverless-Web-Architecture-with-CI-CD-Integration</a></h4>
+  <p>Production-grade serverless web architecture on AWS with full CI/CD pipeline integration.</p>
+</td>
+</tr>
+</table>
 
 ---
 
 ## AI & Cloud Applications
 
-<p align="left">
-<a href="https://github.com/iampryce/Nova-Support-AI-Platform">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=iampryce&repo=Nova-Support-AI-Platform" width="49%" />
-</a>
-
-<a href="https://github.com/iampryce/Serverless-AI-Quote-Generator-on-AWS-Iac-">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=iampryce&repo=Serverless-AI-Quote-Generator-on-AWS-Iac-" width="49%" />
-</a>
-</p>
+<table>
+<tr>
+<td width="50%" valign="top">
+  <h4><a href="https://github.com/iampryce/Nova-Support-AI-Platform">Nova-Support-AI-Platform</a></h4>
+  <p>AI-powered customer support platform built on AWS with intelligent routing and automated responses.</p>
+</td>
+<td width="50%" valign="top">
+  <h4><a href="https://github.com/iampryce/Serverless-AI-Quote-Generator-on-AWS-Iac-">Serverless-AI-Quote-Generator-on-AWS-Iac-</a></h4>
+  <p>Serverless AI quote generator deployed on AWS using Infrastructure as Code with Terraform.</p>
+</td>
+</tr>
+</table>
 
 ---
 
