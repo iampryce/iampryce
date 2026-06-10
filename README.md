@@ -190,11 +190,15 @@ I build production-grade environments across AWS and Azure using Infrastructure 
 <table>
 <tr>
 <td width="50%" valign="top">
+  <h4><a href="https://github.com/iampryce/Dockerized-Application-Platform-Terraform-Ansible-Docker">Dockerized-Application-Platform-Terraform-Ansible-Docker</a></h4>
+  <p>The Dockerized Application Platform automates the provisioning and configuration of containerized...</p>
+  <p>⭐ 0 &nbsp; 🍴 0 &nbsp; 💻 HCL</p>
+</td>
+<td width="50%" valign="top">
   <h4><a href="https://github.com/iampryce/CodeAlpha-Jenkins-Remoting-Project">CodeAlpha-Jenkins-Remoting-Project</a></h4>
   <p>This project demonstrates Jenkins Remoting by connecting a Jenkins Agent container to a Jenkins M...</p>
   <p>⭐ 0 &nbsp; 🍴 0 &nbsp; 💻 —</p>
 </td>
-<td width="50%"></td>
 </tr>
 </table>
 
